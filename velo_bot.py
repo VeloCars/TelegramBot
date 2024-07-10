@@ -11,9 +11,9 @@ from telegram.error import TimedOut
 
 # Constants
 BOT_USERNAME: Final = "@velocars_bot"
-TOKEN: Final = "6950868494:AAGSpVty3TiuLD8mItNeRLY7GGxN0kqfyBg"
-GOOGLE_SHEETS_CREDENTIALS = "/Users/aliemirkaragulle/Desktop/velo-telegram-158adc10d37e.json"
-FOLDER_ID = "1XjNOWyEcQ5al-ip3wFaYWD78UxtY5ZJW"
+TOKEN: Final = "SECRET"
+GOOGLE_SHEETS_CREDENTIALS = "SECRET"
+FOLDER_ID = "SECRET"
 
 # Conversation States
 (
